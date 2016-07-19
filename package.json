@@ -1,0 +1,15 @@
+{
+  "name": "coincapssh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle_web_app": "browserify index.js -o index.min.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^1.4.8"
+  }
+}
