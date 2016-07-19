@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "socket.io-client": "^1.4.4"
+    "socket.io-client": "^1.4.2"
   }
 }
